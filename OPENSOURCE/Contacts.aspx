@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Contact" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contacts.aspx.vb" Inherits="OPENSOURCE.Contacts" %>
+﻿<%@ Page Title="Contacts" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contacts.aspx.vb" Inherits="OPENSOURCE.Contacts" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
@@ -9,9 +9,10 @@
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">Contacts
-                   <small> blame these guys for everything</small>
+                   <small>blame these guys for everything</small>
                 </h1>
-                <p>This is where you can find information about the developers, leaders, helpers, etc. If you have time and would like to help with //OS, contact someone on this page and they can set you up with some tasks and permissions. Also, any recommendations can be sent to anyone on this page. Oh, and just kidding about blaming these guys. They did this on their free time.<p>
+                <p>
+                    This is where you can find information about the developers, leaders, helpers, etc. If you have time and would like to help with //OS, contact someone on this page and they can set you up with some tasks and permissions. Also, any recommendations can be sent to anyone on this page. Oh, and just kidding about blaming these guys. They did this on their free time.<p>
             </div>
         </div>
 

@@ -194,6 +194,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Forum.aspx" />
     <Content Include="Images\cream_pixels.png" />
+    <Content Include="Images\html-tag.png" />
     <Content Include="Images\OSlogo.png" />
     <Content Include="Images\OSlogoSmall.png" />
     <Content Include="Images\questionmark.png" />
